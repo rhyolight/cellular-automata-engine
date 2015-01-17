@@ -1,0 +1,30 @@
+{
+  "name": "cellular-automata-engine",
+  "version": "1.0.0",
+  "description": "Cellular Automata Engine",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhyolight/cellular-automata-engine"
+  },
+  "keywords": [
+    "cellular",
+    "automata",
+    "wolfram",
+    "rule",
+    "30"
+  ],
+  "author": "Matthew Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhyolight/cellular-automata-engine/issues"
+  },
+  "homepage": "https://github.com/rhyolight/cellular-automata-engine"
+}
