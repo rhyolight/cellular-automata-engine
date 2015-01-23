@@ -1,3 +1,12 @@
+* * *
+* * *
+
+# THIS REPO IS DEPRECATED
+Use https://github.com/rhyolight/automatatron instead.
+
+* * *
+* * *
+
 This is a WIP Node.js program that generates cellular automata.
 
 ## Rules Implemented
